@@ -1,0 +1,6 @@
+#ifndef SPARKLEUI_LIBRARY_H
+#define SPARKLEUI_LIBRARY_H
+
+void hello();
+
+#endif //SPARKLEUI_LIBRARY_H
